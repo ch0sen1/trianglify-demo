@@ -1,0 +1,14 @@
+{
+  "name": "trianglify-demo",
+  "version": "0.0.0",
+  "description": "A Trianglify demo that generates cool SVG backgrounds.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ch0sen1/trianglify-demo.git"
+  },
+  "author": "Oscar Paramo",
+  "license": "MIT",
+  "dependencies": {
+    "trianglify": "0.4.0"
+  }
+}
